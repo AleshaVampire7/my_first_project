@@ -1,5 +1,6 @@
 package Entities;
 //Object of our app
+//Here as in every class i used encapsulation
 public class Instructor {
     protected  int id;
     protected  String name;

@@ -1,5 +1,6 @@
 package Entities;
 //Object of our app
+//Parameters was added by their properties
 public class Grade {
     private int id;
     private String course;

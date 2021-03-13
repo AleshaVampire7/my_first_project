@@ -10,6 +10,7 @@ import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.List;
 //Executable statemnets are stored here also methods that are used in our app.
+//Here i used polymorphism and extension
 public class GradeRepositoryUpdated extends GradeRepository implements IGradeRepositoryUpdated {
     public GradeRepositoryUpdated(DBManager dbManager) {
         super(dbManager);
