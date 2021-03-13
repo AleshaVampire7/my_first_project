@@ -56,6 +56,7 @@ public class MainApplication {
                     instructorApplication.logInInstructorMenu();
                 }
                 System.out.println("======================================");
+                System.out.println("Session was closed");
             }
         }
     }
